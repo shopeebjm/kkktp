@@ -27,7 +27,7 @@ Unduh Script kk-ktp Dibawah Ini
 
 👇👇
 
-[![Script kk ktp](https://img.shields.io/badge/Scriptkkktp-%2B-blue.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
+[![Script kk ktp](https://img.shields.io/badge/Scriptkkktp-%2B-blue.svg?style=flat)]([https://sfile.co/eZK8yBBtOiv](https://sfile.co/ho8nKHLUI8I)
 
 </p>
 <div height='45' align="center">
