@@ -52,3 +52,5 @@ Unduh Script kk-ktp Dibawah Ini
 
 # _Follow_
 - Klik Disini👉[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/shopee_banjarmasin)
+
+- Klik Disini👉[![TikTok](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://tiktok.com/@shopee.bjm)
