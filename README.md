@@ -29,19 +29,7 @@ Unduh Script kk-ktp Dibawah Ini
 
 [![Script kk ktp](https://img.shields.io/badge/scriptkkktp-%2B-blue.svg?style=flat)](https://sfile.co/ho8nKHLUI8I)
 
-</p>
-<div height='45' align="center">
-<h2>Contact me: <br>
-<a href="https://github.com/shopeebjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
-<a href="https://facebook.com/shopee.bjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-  
-<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
-</h2>
-</div>
-<h2 align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopeebjm&layout=compact&theme=dark">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=shopeebjm&count_private=true&show_icons=true&theme=dark">
-<h2 align="center">
+
 
 # Social Media
 
